@@ -9,7 +9,7 @@
   "scripts": {
     "test": "ava -v"
   },
-  "devDependencies": {
-    "ava": "^1.4.1"
+  "dependencies": {
+    "@cadaster/adapter-geojson-fulltext": "*"
   }
 }
