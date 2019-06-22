@@ -1,7 +1,7 @@
 {
   "name": "@cadaster/lab",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Lab",
   "author": "Miro <miro.ter.seri@gmail.com>",
   "license": "MIT",
@@ -10,6 +10,6 @@
     "test": "ava -v"
   },
   "dependencies": {
-    "@cadaster/adapter-geojson-fulltext": "*"
+    "@cadaster/adapter-geojson-fulltext": "^0.1.0"
   }
 }
